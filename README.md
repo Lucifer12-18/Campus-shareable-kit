@@ -33,7 +33,7 @@ Design: Glassmorphism, teal/green accents, clear badges/pills, micro-animations
 Formula: `co2e_saved = factor × avoided_purchase_prob (default 0.5)`
 
 ## 🔗 Links
-Live App: _<[Campus Shareable kit](https://campus-shareable-kits-38799360.base44.app)>_
+Live App: _[Campus Shareable kit](https://campus-shareable-kits-38799360.base44.app)_
 
 ## 🖼 Screenshots
 <img width="2179" height="1386" alt="image" src="https://github.com/user-attachments/assets/4e3802b7-757e-4269-a60f-a01a7e8aed29" />
